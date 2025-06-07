@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+
+#image{
+    border: 5px solid white;
+    margin: auto;
+    display: block;
+    width:70%;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    color:white;
+    text-align: center;
+}
